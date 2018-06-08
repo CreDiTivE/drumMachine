@@ -1,4 +1,4 @@
-||    JVS    ||
+JVS
 ===============
 
 What is this?

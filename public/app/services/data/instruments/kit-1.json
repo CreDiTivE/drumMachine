@@ -1,0 +1,29 @@
+{
+  "name": "default",
+  "instruments": [
+    {"name" : "Kick",
+     "file" : "/drums/1.mp3" },
+    { "name" : "Snare",
+      "file" : "/drums/2.mp3" },
+    { "name" : "Hi-Hat",
+      "description" : "closed",
+      "file" : "/drums/3.mp3" },
+    { "name" : "Hi-Hat",
+      "description" : "open",
+      "file" : "/drums/4.mp3" },
+    { "name" : "Hi-Hat",
+      "description" : "long",
+      "file" : "/bigSean/hat.wav" },
+    { "name" : "Theme",
+      "file" : "/yeezus/1.wav" },
+    { "name" : "Loop",
+      "description" : "Cafe",
+      "file" : "loop1.wav" },
+    { "name" : "Loop",
+      "description" : "Heroic",
+      "file" : "loop2.wav" },
+    { "name" : "Loop",
+      "description" : "Piano",
+      "file" : "loop3.wav" }
+  ]
+}
